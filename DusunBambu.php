@@ -16,7 +16,7 @@
             </a>  
           </div>
           <ul class="nav-links">
-            <li><a href="TugasBesar.html">Beranda</a></li>
+            <li><a href="TugasBesar.php">Beranda</a></li>
             <li><a href="paket wisata.html">Paket Wisata</a></li>
             <li><a href="kategori.html">Kategori</a></li>
             <li><a href="destinasipopuler.html">Destinasi Populer</a></li>
