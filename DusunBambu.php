@@ -19,15 +19,15 @@
             <li><a href="TugasBesar.php">Beranda</a></li>
             <li><a href="paket wisata.php">Paket Wisata</a></li>
             <li><a href="kategori.php">Kategori</a></li>
-            <li><a href="destinasipopuler.html">Destinasi Populer</a></li>
-            <li><a href="layanan.html">Layanan</a></li>
-            <li><a href="testimoni.html">Testimoni</a></li>
-            <li><a href="blog1.html">Blog</a></li>
-            <li><a href="bantuankami.html" class="Bantuan Kami-btn">Bantuan Kami</a></li> 
+            <li><a href="destinasipopuler.php">Destinasi Populer</a></li>
+            <li><a href="layanan.php">Layanan</a></li>
+            <li><a href="testimoni.php">Testimoni</a></li>
+            <li><a href="blog1.php">Blog</a></li>
+            <li><a href="bantuankami.php" class="Bantuan Kami-btn">Bantuan Kami</a></li> 
           </ul>
           <div class="auth-buttons">
-            <a href="Login.html" class="login-btn">Login</a>
-            <a href="daftar khai.html" class="signup-btn">Daftar</a>
+            <a href="Login.php" class="login-btn">Login</a>
+            <a href="daftar khai.php" class="signup-btn">Daftar</a>
           </div>
         </nav>
       </header>
